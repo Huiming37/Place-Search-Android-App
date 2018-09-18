@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ic_twitter"
+        android:title="goToTwitter"
+        android:icon="@drawable/to_twitter"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/ic_fav"
+        android:title="addToFav"
+        android:icon="@drawable/heart_fill_white"
+        app:showAsAction="always" />
+
+</menu>

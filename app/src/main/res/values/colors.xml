@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#31c67c</color>
+    <color name="colorPrimaryDark">#31c67c</color>
+    <color name="tab_indicator_color">#31c67c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <!--<color name="colorWhite">#FFFFFF</color>-->
+
+</resources>
